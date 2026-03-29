@@ -1,0 +1,14 @@
+BenchNonVec
+BenchVec
+BenchAVX2
+NonVec
+Vec
+AVX2
+*.txt
+BenchNonVec
+BenchVec
+BenchAVX2
+NonVec
+Vec
+AVX2
+*.txt
