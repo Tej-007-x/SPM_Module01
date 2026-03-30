@@ -1,4 +1,5 @@
-Project: SPM Modulo 1 - Vectorization of the Partition Mapping Kernel Author: Teja Karuku
+Project: SPM Modulo 1 - Vectorization of the Partition Mapping Kernel 
+Author: Teja Karuku
 ----------------------------------------------------------------------
 
 FILES INCLUDED:
